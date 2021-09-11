@@ -1,3 +1,3 @@
 myRepo:
   gitProvider: katol_test_github_integration
-  path: jfrog/jfrog-pipelines-simple-example
+  path: kornholjo/jfrog-pipelines-simple-example
